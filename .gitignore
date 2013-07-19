@@ -1,0 +1,19 @@
+# yii runtime directories
+app/runtime/*
+web/assets/*
+
+# composer
+vendor/*
+composer.lock
+
+# npm
+node_modules/*
+web/inc/css/*
+web/inc/js/*
+
+# local config
+app/config/local.php
+
+# local env configs
+app/config/environments/dev.php
+app/config/environments/prod.php
